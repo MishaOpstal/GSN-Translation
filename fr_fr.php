@@ -3,6 +3,8 @@
 	$LAN['FLAG'] = "fr";
 	
 	$LAN['TITLE'] = "GS-M.ORG - Game Server Live Status, Banners, Usability monitoring";
+	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
+	$LAN['DESCRIPTION'] = "Game Server Monitoring, List, Banner, Signature, Usability monitoring. GS-M.ORG";
 	$LAN['HOME'] = "Accueil";
 	$LAN['ADD_SERVER'] = "Ajouter Serveur";
 	$LAN['FORUMS'] = "Forum";
@@ -38,6 +40,8 @@
 	$LAN['LAST_UPDATE'] = "Dernière Mise à Jour(UTC)";
 	$LAN['SERVICES'] = "Services";
 	$LAN['HCOUNT'] = "HCount";
+	$LAN['HSIGN'] = "Signature";
+	$LAN['HSIGN_HELP'] = "Change color,tcolor to change font color, change lan to set language";
 	$LAN['HCOUNT_HELP'] = "Pour changer la couleur de l'image, changez &color=255,255,255 par la couleur RGB de votre choix";
 	$LAN['SERVER_OFFLINE'] = "Server is offline!";
 	

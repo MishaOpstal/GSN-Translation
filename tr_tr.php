@@ -3,6 +3,8 @@
 	$LAN['FLAG'] = "tr";
 	
 	$LAN['TITLE'] = "GS-M.ORG - Oyun Sunucusu Canlı Sunucu Durumu, Afisler, Kullanılabilirlik izleme";
+	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
+	$LAN['DESCRIPTION'] = "Game Server Monitoring, List, Banner, Signature, Usability monitoring. GS-M.ORG";
 	$LAN['HOME'] = "Ana Sayfa";
 	$LAN['ADD_SERVER'] = "Sunucu Ekle";
 	$LAN['FORUMS'] = "Forum";
@@ -38,6 +40,8 @@
 	$LAN['LAST_UPDATE'] = "Son Guncelleme (UTC)";
 	$LAN['SERVICES'] = "Hizmetler";
 	$LAN['HCOUNT'] = "HCount";
+	$LAN['HSIGN'] = "Signature";
+	$LAN['HSIGN_HELP'] = "Change color,tcolor to change font color, change lan to set language";
 	$LAN['HCOUNT_HELP'] = "Resmin rengini değiştirmek için &color=255,255,255 RGB'de ne gibi";
 	$LAN['SERVER_OFFLINE'] = "Sunucu cevrimdısı!";
 	
