@@ -6,6 +6,7 @@
 	$LAN['HOME'] = "Accueil";
 	$LAN['ADD_SERVER'] = "Ajouter Serveur";
 	$LAN['FORUMS'] = "Forum";
+	$LAN['DONATE'] = "Donate";
 	
 	$LAN['SEARCH'] = "Rechercher";
 	$LAN['NAME'] = "Nom";
