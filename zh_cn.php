@@ -1,5 +1,5 @@
 <?php
-	$LAN['NAME'] = "简体中文";
+	$LAN['LANGNAME'] = "简体中文";
 	$LAN['FLAG'] = "cn";
 	
 	$LAN['TITLE'] = "GS-M.ORG - 游戏服务器实时状态, 横幅, 可用性检测";
@@ -9,7 +9,7 @@
 	$LAN['ADD_SERVER'] = "添加服务器";
 	$LAN['FORUMS'] = "论坛";
 	$LAN['DONATE'] = "捐助";
-	
+	$LAN['ADS'] = "广告";
 	$LAN['SEARCH'] = "搜索";
 	$LAN['NAME'] = "名称";
 	$LAN['SRVNAME'] = "服务器名称";
@@ -44,6 +44,8 @@
 	$LAN['HCOUNT_HELP'] = "如果要修改图片颜色，修改&color=255,255,255到你想要的颜色(RGB模式)";
 	$LAN['HSIGN_HELP'] = "修改color,tcolor参数设置文字颜色(RGB模式),修改lan参数设置语言";
 	$LAN['SERVER_OFFLINE'] = "服务器不在线！";
-	
+	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "你需要先登录我们的论坛以添加服务器。<a class='alert-link' href='http://www.gs-m.org/forums/ucp.php?mode=login' target='_blank'>立刻登录</a>";
 	$LAN['ADD_SERVER_TIPS'] = "如果你的服务器一直无法被获取到信息，可能是我们的服务器不能连接到你的游戏服务器所造成的，尝试 <a class='alert-link' href='http://http://www.gs-m.org/forums/viewforum.php?f=5' target='_blank'>在论坛寻求帮助</a>。";
+	$LAN['IN'] = "在";
+	$LAN['SERVERS'] = "服务器";
 ?>
