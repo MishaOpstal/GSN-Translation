@@ -8,7 +8,7 @@
 	$LAN['HOME'] = "Accueil";
 	$LAN['ADD_SERVER'] = "Ajouter Serveur";
 	$LAN['FORUMS'] = "Forum";
-	$LAN['DONATE'] = "Donate";
+	$LAN['DONATE'] = "Faire un don";
 	
 	$LAN['SEARCH'] = "Rechercher";
 	$LAN['NAME'] = "Nom";
@@ -16,7 +16,7 @@
 	$LAN['ALL_GAMES'] = "Tout les Jeux";
 	$LAN['LOCATION'] = "Localisation";
 	$LAN['ALL_LOCATIONS'] = "Toutes Localisations";
-	$LAN['ADDITION_SETTINGS'] = "Paramètres Additionnel";
+	$LAN['ADDITION_SETTINGS'] = "Paramètres Additionnels";
 	$LAN['NOT_FULL'] = "Pas Plein";
 	$LAN['NO_PASSWORD'] = "Pas de Mot de Passe";
 	$LAN['NOT_EMPTY'] = "Pas Vide";
@@ -33,17 +33,17 @@
 	$LAN['ERROR_INVAILD_IP'] = "Adresse IP invalide.";
 	$LAN['ERROR_INVAILD_PORT'] = "Port Invalide.";
 	$LAN['SUCCESS_MSG'] = "Succès!";
-	$LAN['ERROR_ALREAD_EXIST'] = "Ce Serveur Existe Déjà!";
-	$LAN['ADD_SERVER_SUCCESS_MSG'] = "Vous avez ajoutez ce serveur sur GS-M! Ce serveur sera surveillé, vous pouvez obtenir le statut du serveur moins de 5 minutes lorsque le serveur est en ligne.";
+	$LAN['ERROR_ALREAD_EXIST'] = "Ce Serveur existe déjà!";
+	$LAN['ADD_SERVER_SUCCESS_MSG'] = "Vous avez ajoutez ce serveur sur GS-M! Ce serveur sera surveillé, vous pouvez obtenir le status du serveur moins de 5 minutes après qu'il soit en ligne.";
 	$LAN['SERVER_INFORMATION'] = "Informations Serveurs";
 	$LAN['ERROR_SERVER_NOT_FOUND'] = "Ce serveur est introuvable dans notre base de données.";
 	$LAN['LAST_UPDATE'] = "Dernière Mise à Jour(UTC)";
 	$LAN['SERVICES'] = "Services";
 	$LAN['HCOUNT'] = "HCount";
 	$LAN['HSIGN'] = "Signature";
-	$LAN['HSIGN_HELP'] = "Change color,tcolor to change font color, change lan to set language";
+	$LAN['HSIGN_HELP'] = "Changer la couleur,tcolor pour changer la couleur de la police, changer lan pour changer la langue";
 	$LAN['HCOUNT_HELP'] = "Pour changer la couleur de l'image, changez &color=255,255,255 par la couleur RGB de votre choix";
-	$LAN['SERVER_OFFLINE'] = "Server is offline!";
+	$LAN['SERVER_OFFLINE'] = "Le serveur est hors-ligne !";
 	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "To add a server, you must login to our forums first. <a class='alert-link' href='http://www.gs-m.org/forums/ucp.php?mode=login' target='_blank'>Login Now</a>";
 	$LAN['ADD_SERVER_TIPS'] = "If your server always could not be queried, it may caused by our server that could not connect to your game server, consider <a class='alert-link' href='http://http://www.gs-m.org/forums/viewforum.php?f=5' target='_blank'>post it on our forum for support</a>.";
 	$LAN['IN'] = "in";
