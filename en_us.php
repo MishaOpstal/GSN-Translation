@@ -10,6 +10,7 @@
 	$LAN['ADD_SERVER'] = "Add Server";
 	$LAN['FORUMS'] = "Forums";
 	$LAN['DONATE'] = "Donate";
+	$LAN['STATUS'] = "Status";
 	
 	$LAN['SEARCH'] = "Search";
 	$LAN['NAME'] = "Name";
@@ -46,6 +47,7 @@
 	$LAN['HSIGN_HELP'] = "Change color,tcolor to change font color, change lan to set language";
 	$LAN['SERVER_OFFLINE'] = "Server is offline!";
 	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "To add a server, you must login to our forums first. <a class='alert-link' href='http://www.gs-m.org/forums/ucp.php?mode=login' target='_blank'>Login Now</a>";
+	$LAN['ADD_SERVER_CONNECT_FAILED'] = "We have tried to connect to this server for 3 times, but it seems that the server does not give response, please check your server online. If you need help, please go to our forum.";
 	$LAN['ADD_SERVER_TIPS'] = "If your server always could not be queried, it may caused by our server that could not connect to your game server, consider <a class='alert-link' href='http://http://www.gs-m.org/forums/viewforum.php?f=5' target='_blank'>post it on our forum for support</a>.";
 	$LAN['IN'] = "in";
 	$LAN['SERVERS'] = "servers";
