@@ -42,8 +42,8 @@
 	$LAN['SERVICES'] = "Hizmetler";
 	$LAN['HCOUNT'] = "HCount";
 	$LAN['HSIGN'] = "Signature";
-	$LAN['HSIGN_HELP'] = "Change color,tcolor to change font color, change lan to set language";
-	$LAN['HCOUNT_HELP'] = "Resmin rengini değiştirmek için &color=255,255,255 RGB'de ne gibi";
+	$LAN['HSIGN_HELP'] = "Change 255,255,255 to change font color, change en_us to set language";
+	$LAN['HCOUNT_HELP'] = "Resmin rengini değiştirmek için 255,255,255 RGB'de ne gibi";
 	$LAN['SERVER_OFFLINE'] = "Sunucu cevrimdısı!";
 	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "To add a server, you must login to our forums first. <a class='alert-link' href='http://www.gsnet.work/forums/ucp.php?mode=login' target='_blank'>Login Now</a>";
 	$LAN['ADD_SERVER_CONNECT_FAILED'] = "We have tried to connect to this server for 3 times, but it seems that the server does not give response, please check your server online. If you need help, please go to our forum.";
