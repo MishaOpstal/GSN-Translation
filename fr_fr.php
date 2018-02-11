@@ -27,6 +27,7 @@
 	$LAN['IPPORT'] = "IP:Port";
 	$LAN['IP'] = "IP";
 	$LAN['PORT'] = "Port";
+	$LAN['QUERYPORT'] = "Query Port";
 	$LAN['ADD_SERVER'] = "Ajouter Serveur";
 	$LAN['SUBMIT'] = "Envoyer";
 	$LAN['ERROR_MSG'] = "Oups! Quelque chose c'est mal passé";

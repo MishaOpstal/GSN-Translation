@@ -27,6 +27,7 @@
 	$LAN['IPPORT'] = "IP:端口";
 	$LAN['IP'] = "IP";
 	$LAN['PORT'] = "端口";
+	$LAN['QUERYPORT'] = "查询端口";
 	$LAN['ADD_SERVER'] = "添加服务器";
 	$LAN['SUBMIT'] = "提交";
 	$LAN['ERROR_MSG'] = "发生错误";

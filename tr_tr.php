@@ -27,6 +27,7 @@
 	$LAN['IPPORT'] = "IP:Port";
 	$LAN['IP'] = "IP";
 	$LAN['PORT'] = "Port";
+	$LAN['QUERYPORT'] = "Query Port";
 	$LAN['ADD_SERVER'] = "Sunucu Ekle";
 	$LAN['SUBMIT'] = "Gonder";
 	$LAN['ERROR_MSG'] = "Hata! Bir seyler yanlıs gitti.";
