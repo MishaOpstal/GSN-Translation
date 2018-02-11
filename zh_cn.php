@@ -2,9 +2,9 @@
 	$LAN['LANGNAME'] = "简体中文";
 	$LAN['FLAG'] = "cn";
 	
-	$LAN['TITLE'] = "GS-M.ORG - 游戏服务器实时状态, 横幅, 可用性检测";
+	$LAN['TITLE'] = "GSNet - 游戏服务器实时状态, 横幅, 可用性检测";
 	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
-	$LAN['DESCRIPTION'] = "游戏服务器状态监控, 列表, 横幅, 签名图片, 可用性检测. GS-M.ORG";
+	$LAN['DESCRIPTION'] = "游戏服务器状态监控, 列表, 横幅, 签名图片, 可用性检测. GSNet";
 	$LAN['HOME'] = "主页";
 	$LAN['ADD_SERVER'] = "添加服务器";
 	$LAN['FORUMS'] = "论坛";
@@ -35,7 +35,7 @@
 	$LAN['ERROR_INVAILD_PORT'] = "提交的端口号错误.";
 	$LAN['SUCCESS_MSG'] = "成功!";
 	$LAN['ERROR_ALREAD_EXIST'] = "此服务器已经存在!";
-	$LAN['ADD_SERVER_SUCCESS_MSG'] = "成功添加此服务器到GS-M! 服务器现在开始将被监控, 如果此服务器在线, 你将在5分钟内获得服务器状态信息.";
+	$LAN['ADD_SERVER_SUCCESS_MSG'] = "成功添加此服务器到GSNet! 服务器现在开始将被监控, 如果此服务器在线, 你将在5分钟内获得服务器状态信息.";
 	$LAN['SERVER_INFORMATION'] = "服务器信息";
 	$LAN['ERROR_SERVER_NOT_FOUND'] = "此服务器不存在";
 	$LAN['LAST_UPDATE'] = "更新时间(UTC)";
@@ -45,9 +45,9 @@
 	$LAN['HCOUNT_HELP'] = "如果要修改图片颜色，修改&color=255,255,255到你想要的颜色(RGB模式)";
 	$LAN['HSIGN_HELP'] = "修改color,tcolor参数设置文字颜色(RGB模式),修改lan参数设置语言";
 	$LAN['SERVER_OFFLINE'] = "服务器不在线！";
-	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "你需要先登录我们的论坛以添加服务器。<a class='alert-link' href='http://www.gs-m.org/forums/ucp.php?mode=login' target='_blank'>立刻登录</a>";
+	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "你需要先登录我们的论坛以添加服务器。<a class='alert-link' href='http://www.gsnet.work/forums/ucp.php?mode=login' target='_blank'>立刻登录</a>";
 	$LAN['ADD_SERVER_CONNECT_FAILED'] = "我们已经尝试连接该服务器3次，但是服务器好像没有响应，请检查服务器是否在线。如果你需要帮助，请前往我们的论坛。";
-	$LAN['ADD_SERVER_TIPS'] = "如果你的服务器一直无法获取到信息，可能是我们的服务器不能连接到你的游戏服务器所造成的，尝试 <a class='alert-link' href='http://http://www.gs-m.org/forums/viewforum.php?f=5' target='_blank'>在论坛寻求帮助</a>。";
+	$LAN['ADD_SERVER_TIPS'] = "如果你的服务器一直无法获取到信息，可能是我们的服务器不能连接到你的游戏服务器所造成的，尝试 <a class='alert-link' href='http://http://www.gsnet.work/forums/viewforum.php?f=5' target='_blank'>在论坛寻求帮助</a>。";
 	$LAN['IN'] = "在";
 	$LAN['SERVERS'] = "服务器";
 ?>
