@@ -2,9 +2,9 @@
 	$LAN['LANGNAME'] = "简体中文";
 	$LAN['FLAG'] = "cn";
 	
-	$LAN['TITLE'] = "GSNet - 游戏服务器实时状态, 横幅, 可用性检测";
+	$LAN['TITLE'] = "游戏服务器网络 - 游戏服务器实时状态, 横幅, 可用性检测";
 	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
-	$LAN['DESCRIPTION'] = "游戏服务器状态监控, 列表, 横幅, 签名图片, 可用性检测. GSNet";
+	$LAN['DESCRIPTION'] = "游戏服务器状态监控, 列表, 横幅, 签名图片, 可用性检测. Game Server Network | GSNET";
 	$LAN['HOME'] = "主页";
 	$LAN['ADD_SERVER'] = "添加服务器";
 	$LAN['FORUMS'] = "论坛";
@@ -35,7 +35,7 @@
 	$LAN['ERROR_INVAILD_PORT'] = "提交的端口号错误.";
 	$LAN['SUCCESS_MSG'] = "成功!";
 	$LAN['ERROR_ALREAD_EXIST'] = "此服务器已经存在!";
-	$LAN['ADD_SERVER_SUCCESS_MSG'] = "成功添加此服务器到GSNet! 服务器现在开始将被监控, 如果此服务器在线, 你将在5分钟内获得服务器状态信息.";
+	$LAN['ADD_SERVER_SUCCESS_MSG'] = "成功添加此服务器到GSNET! 服务器现在开始将被监控, 如果此服务器在线, 你将在5分钟内获得服务器状态信息.";
 	$LAN['SERVER_INFORMATION'] = "服务器信息";
 	$LAN['ERROR_SERVER_NOT_FOUND'] = "此服务器不存在";
 	$LAN['LAST_UPDATE'] = "更新时间(UTC)";

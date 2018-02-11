@@ -2,9 +2,9 @@
 	$LAN['LANGNAME'] = "English";
 	$LAN['FLAG'] = "us";
 	
-	$LAN['TITLE'] = "GSNet - Game Server Live Status, Banners, Usability monitoring";
+	$LAN['TITLE'] = "Game Server Network | GSNET - Game Server Live Status, Banners, Usability monitoring";
 	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
-	$LAN['DESCRIPTION'] = "Game Server Monitoring, List, Banner, Signature, Usability monitoring. GSNet";
+	$LAN['DESCRIPTION'] = "Game Server Monitoring, List, Banner, Signature, Usability monitoring. Game Server Network | GSNET";
 	
 	$LAN['HOME'] = "Home";
 	$LAN['ADD_SERVER'] = "Add Server";
@@ -36,7 +36,7 @@
 	$LAN['ERROR_INVAILD_PORT'] = "Invaild Port.";
 	$LAN['SUCCESS_MSG'] = "Success!";
 	$LAN['ERROR_ALREAD_EXIST'] = "This server is alreay exist!";
-	$LAN['ADD_SERVER_SUCCESS_MSG'] = "You have successfully added this server to GSNet! This server will be monitored, you can get the server status less than 5 minutes as the server is online.";
+	$LAN['ADD_SERVER_SUCCESS_MSG'] = "You have successfully added this server to GSNET! This server will be monitored, you can get the server status less than 5 minutes as the server is online.";
 	$LAN['SERVER_INFORMATION'] = "Server Informations";
 	$LAN['ERROR_SERVER_NOT_FOUND'] = "This server is not exist in our database";
 	$LAN['LAST_UPDATE'] = "Last Update(UTC)";
