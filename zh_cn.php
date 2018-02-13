@@ -47,8 +47,8 @@
 	$LAN['HSIGN_HELP'] = "修改255,255,255设置标题/内容文字颜色(RGB模式),修改en_us设置语言";
 	$LAN['SERVER_OFFLINE'] = "服务器不在线！";
 	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "你需要先登录我们的论坛以添加服务器。<a class='alert-link' href='http://www.gsnet.work/forums/ucp.php?mode=login' target='_blank'>立刻登录</a>";
-	$LAN['ADD_SERVER_CONNECT_FAILED'] = "我们已经尝试连接该服务器3次，但是服务器好像没有响应，请检查服务器是否在线。如果你需要帮助，请前往我们的论坛。";
-	$LAN['ADD_SERVER_TIPS'] = "如果你的服务器一直无法获取到信息，可能是我们的服务器不能连接到你的游戏服务器所造成的，尝试 <a class='alert-link' href='http://http://www.gsnet.work/forums/viewforum.php?f=5' target='_blank'>在论坛寻求帮助</a>。";
+	$LAN['ADD_SERVER_CONNECT_FAILED'] = "我们已经尝试连接该服务器3次，但是服务器好像没有响应，请检查服务器是否在线。如果你需要帮助，请<a class='alert-link' href='http://http://www.gsnet.work/forums/viewforum.php?f=5' target='_blank'>前往我们的论坛</a>。";
+	$LAN['ADD_SERVER_TIPS'] = "如果你需要添加主机名（域名）形式的服务器，请<a class='alert-link' href='http://http://www.gsnet.work/forums/viewforum.php?f=5' target='_blank'>前往我们的论坛</a>。";
 	$LAN['IN'] = "在";
 	$LAN['SERVERS'] = "服务器";
 ?>
