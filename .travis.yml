@@ -3,3 +3,5 @@ language: php
 php:
   - 5.5
   - nightly
+
+script: php -r '$list=glob("*.php");foreach($list as $value)include_once($value);'
