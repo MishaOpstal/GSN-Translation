@@ -2,9 +2,9 @@
 	$LAN['LANGNAME'] = "Nederlands";
 	$LAN['FLAG'] = "nl";
 	
-	$LAN['TITLE'] = "Gaming Server Netwerk | GSNET - Check hier de live status, banners en ip's van uw favoriete server of voeg je eigen toe!";
+	$LAN['TITLE'] = "Game Server Netwerk | GSNET - Check hier de live status, banners en ip's van uw favoriete server of voeg je eigen toe!";
 	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
-	$LAN['DESCRIPTION'] = "uw gaming server status bijhouden, de lijst bekijken, de banners bekijken, en nog veel meer. Gaming Server Netwerk | GSNET";
+	$LAN['DESCRIPTION'] = "uw gaming server status bijhouden, de lijst bekijken, de banners bekijken, en nog veel meer. Game Server Netwerk | GSNET";
 	
 	$LAN['HOME'] = "Hoofdpagina";
 	$LAN['ADD_SERVER'] = "Voeg uw server toe";
@@ -43,7 +43,7 @@
 	$LAN['LAST_UPDATE'] = "laatste update(UTC)";
 	$LAN['SERVICES'] = "Diensten";
 	$LAN['HCOUNT'] = "HCount";
-	$LAN['HSIGN'] = "Banner";
+	$LAN['HSIGN'] = "HSign";
 	$LAN['HCOUNT_HELP'] = "Om de kleur te veranderen veranderd u 255,255,255 naar wat je wilt in RGB taal";
 	$LAN['HSIGN_HELP'] = "verander de twee 255,255,255 kleur codes om de titel/beschrijvings kleur te veranderen, verander nl_NL om een andere taal te kiezen";
 	$LAN['SERVER_OFFLINE'] = "deze server is offline!";
