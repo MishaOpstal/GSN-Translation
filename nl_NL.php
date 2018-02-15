@@ -45,7 +45,7 @@
 	$LAN['HCOUNT'] = "HCount";
 	$LAN['HSIGN'] = "HSign";
 	$LAN['HCOUNT_HELP'] = "Om de kleur te veranderen veranderd u 255,255,255 naar wat je wilt in RGB taal";
-	$LAN['HSIGN_HELP'] = "verander de twee 255,255,255 kleur codes om de titel/beschrijvings kleur te veranderen, verander nl_NL om een andere taal te kiezen";
+	$LAN['HSIGN_HELP'] = "verander de twee 255,255,255 kleur codes om de titel/beschrijvings kleur te veranderen, verander en_us om een andere taal te kiezen";
 	$LAN['SERVER_OFFLINE'] = "deze server is offline!";
 	$LAN['ADD_SERVER_LOGIN_REQUIRED'] = "Om een server toe te voegen moet je eerst op het forum inloggen... <a class='alert-link' href='http://www.gsnet.work/forums/ucp.php?mode=login' target='_blank'>log nu in!</a>";
 	$LAN['ADD_SERVER_CONNECT_FAILED'] = "We hebben 3 keer geprobeerd om te verbinden met de server, check dan of hij online is, als niets helpt ga dan naar het forum";
