@@ -43,7 +43,7 @@
 	$LAN['LAST_UPDATE'] = "laatste update(UTC)";
 	$LAN['SERVICES'] = "Diensten";
 	$LAN['HCOUNT'] = "HCount";
-	$LAN['HSIGN'] = "HSign";
+	$LAN['HSIGN'] = "HSign Banner";
 	$LAN['HCOUNT_HELP'] = "Om de kleur te veranderen veranderd u 255,255,255 naar wat je wilt in RGB taal";
 	$LAN['HSIGN_HELP'] = "verander de twee 255,255,255 kleur codes om de titel/beschrijvings kleur te veranderen, verander en_us om een andere taal te kiezen";
 	$LAN['SERVER_OFFLINE'] = "deze server is offline!";
