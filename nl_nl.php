@@ -10,7 +10,7 @@
 	$LAN['ADD_SERVER'] = "Voeg uw server toe";
 	$LAN['FORUMS'] = "De forums";
 	$LAN['DONATE'] = "Donaties";
-	$LAN['STATUS'] = "En status";
+	$LAN['STATUS'] = "De status";
 	
 	$LAN['SEARCH'] = "Zoek";
 	$LAN['NAME'] = "Naam";
