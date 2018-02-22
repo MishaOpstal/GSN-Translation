@@ -9,7 +9,6 @@ We welcome you to join our translation project, making it easier for players tha
 2. Clone the repository to your local and copy en_us.php to YOUR_LANGUAGE.php (YOUR_LANGUAGE must in lower-case, e.g. en-US -> en-us).
 3. Start translating.
 4. After translating, push the repository from your local and create a pull request to us.
-5. 
 ### I don't know how to use Git
 1. Fork the repository. 
 2. Copy the [raw file of en_us.php][1].
