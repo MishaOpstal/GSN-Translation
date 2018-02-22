@@ -3,5 +3,6 @@
 
 Translation of [Game Server Network](http://www.gsnet.work).
 ## Contribution
-Simply fork the repository and copy en_us.php to YOUR_LANGUAGE.php, and then start translating.  
-After translating, create a pull request to us.
+Moved to [CONTRIBUTING.md][1].
+
+[1]: https://github.com/GSNET-WORK/GSN-Translation/blob/master/CONTRIBUTING.md
