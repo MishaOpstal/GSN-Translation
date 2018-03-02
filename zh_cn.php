@@ -52,4 +52,6 @@
 	$LAN['IN'] = "在";
 	$LAN['SERVERS'] = "服务器";
 	$LAN['TRACKINGSERVER'] = "跟踪服务器";
+	$LAN['SERVERINFO'] = "服务器信息";
+	$LAN['SERVERVAR'] = "服务器变量";
 ?>

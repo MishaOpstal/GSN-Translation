@@ -52,4 +52,6 @@
 	$LAN['IN'] = "in";
 	$LAN['SERVERS'] = "serveurs";
 	$LAN['TRACKINGSERVER'] = "Tracking Server";
+	$LAN['SERVERINFO'] = "Server Info";
+	$LAN['SERVERVAR'] = "Server Variables";
 ?>
