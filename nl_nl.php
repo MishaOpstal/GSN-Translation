@@ -55,4 +55,7 @@
 	$LAN['TRACKINGSERVER'] = "Tracking Server";
 	$LAN['SERVERINFO'] = "Server Info";
 	$LAN['SERVERVAR'] = "Server Variables";
+	$LAN['NAME'] = "Name";
+	$LAN['SCORE'] = "Score";
+	$LAN['PING'] = "Ping";
 ?>

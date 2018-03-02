@@ -54,4 +54,7 @@
 	$LAN['TRACKINGSERVER'] = "跟踪服务器";
 	$LAN['SERVERINFO'] = "服务器信息";
 	$LAN['SERVERVAR'] = "服务器变量";
+	$LAN['NAME'] = "名称";
+	$LAN['SCORE'] = "积分";
+	$LAN['PING'] = "延迟";
 ?>
