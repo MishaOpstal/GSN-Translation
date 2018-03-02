@@ -51,4 +51,5 @@
 	$LAN['ADD_SERVER_TIPS'] = "If you want to add a server by hostname(domain), please <a class='alert-link' href='http://www.gsnet.work/forums/viewtopic.php?f=5&p=5053' target='_blank'>post it on our forum</a>.";
 	$LAN['IN'] = "in";
 	$LAN['SERVERS'] = "serveurs";
+	$LAN['TRACKINGSERVER'] = "Tracking Server";
 ?>

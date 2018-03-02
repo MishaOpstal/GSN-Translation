@@ -51,4 +51,5 @@
 	$LAN['ADD_SERVER_TIPS'] = "如果你需要添加主机名（域名）形式的服务器，请<a class='alert-link' href='http://www.gsnet.work/forums/viewtopic.php?f=9&t=5039' target='_blank'>前往我们的论坛</a>。";
 	$LAN['IN'] = "在";
 	$LAN['SERVERS'] = "服务器";
+	$LAN['TRACKINGSERVER'] = "跟踪服务器";
 ?>
