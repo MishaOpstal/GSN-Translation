@@ -2,7 +2,7 @@
 	$LAN['LANGNAME'] = "简体中文";
 	$LAN['FLAG'] = "cn";
 	
-	$LAN['TITLE'] = "Game Server Network | GSNET - 游戏服务器实时状态, 横幅, 可用性检测";
+	$LAN['TITLE'] = "Game Server Network | GSNET - 联机游戏服务器查询系统, 实时状态, 横幅, 可用性检测";
 	$LAN['KEYWORDS'] = "server ip port game monitor list tracker signature samp san andreas multiplayer counter strike source csgo mta fivem just cause mafia2 unturned";
 	$LAN['DESCRIPTION'] = "游戏服务器状态监控, 列表, 横幅, 签名图片, 可用性检测. Game Server Network | GSNET";
 	$LAN['HOME'] = "主页";
