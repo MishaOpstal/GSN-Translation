@@ -52,10 +52,10 @@
 	$LAN['ADD_SERVER_TIPS'] = "Als je een server met een hostnaam(domein) wilt toevoegen, plaats het dan alstublieft op het <a class='alert-link' href='http://www.gsnet.work/forums/viewtopic.php?f=5&p=5053' target='_blank'>forum</a>.";
 	$LAN['IN'] = "in";
 	$LAN['SERVERS'] = "servers";
-	$LAN['TRACKINGSERVER'] = "Tracking Server";
-	$LAN['SERVERINFO'] = "Server Info";
-	$LAN['SERVERVAR'] = "Server Variables";
-	$LAN['NAME'] = "Name";
-	$LAN['SCORE'] = "Score";
+	$LAN['TRACKINGSERVER'] = "Volg de server";
+	$LAN['SERVERINFO'] = "Server informatie";
+	$LAN['SERVERVAR'] = "Servervariabelen";
+	$LAN['NAME'] = "Naam";
+	$LAN['SCORE'] = "De score";
 	$LAN['PING'] = "Ping";
 ?>
